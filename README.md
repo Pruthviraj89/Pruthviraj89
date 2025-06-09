@@ -14,7 +14,7 @@
 
 ---
 
-- 🎓 Recent IT Graduate from Terna Engineering College (CGPA: 8.42)
+- 🎓 2024 IT Graduate from Mumbai University (CGPA: 8.42)
 - 💻 Focused on Java, Spring Framework, and MySQL
 - 🌱 Currently learning Cloud technologies and Spring Boot Microservices
 - 👨‍💻 Passionate about clean code, backend systems, and scalable architectures
