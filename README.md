@@ -1,4 +1,13 @@
-<h1 align="center">Hi, I'm Pruthviraj Mane 👋</h1>
+<h1 align="center">
+  Hi, I'm Pruthviraj Mane 👋
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.gif"/>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png"/>
+</p>
 <p align="center">
   <i>A passionate Java Developer & Backend Enthusiast</i>
 </p>
