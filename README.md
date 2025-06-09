@@ -18,7 +18,7 @@
 - 💻 Focused on Java, Spring Framework, and MySQL
 - 🌱 Currently learning Cloud technologies and Spring Boot Microservices
 - 👨‍💻 Passionate about clean code, backend systems, and scalable architectures
-- 📫 How to reach me: **pruthvirajmane@gmail.com**
+- 📫 How to reach me: **pruthviraj9mane@gmail.com**
 
 ---
 
