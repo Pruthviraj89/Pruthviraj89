@@ -34,7 +34,7 @@ Java | Spring Framework | Spring Boot | Hibernate | MySQL | REST APIs | JSP | HT
 
 - 🔒 Cybersecurity for Web Development
 
-###📈 GitHub Stats
+### 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pruthviraj89&show_icons=true&theme=radical" alt="Pruthviraj's stats"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pruthviraj89&theme=radical" alt="GitHub Streak"/> </p>
 
 ### 🔥 Featured Projects
