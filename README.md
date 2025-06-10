@@ -43,6 +43,10 @@ Java | Spring Framework | Spring Boot | Hibernate | MySQL | REST APIs | JSP | HT
   <tr>
     <td><a href="https://github.com/Pruthviraj89/Yoga-Booking-Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthviraj89&repo=Yoga-Booking-Website&theme=radical" /></a></td>
   </tr>
+ <tr>
+    <td><a href="https://github.com/Pruthviraj89/assetManagement"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthviraj89&repo=assetManagement&theme=radical" /></a></td>
+  </tr>
+  
 </table>
 
 ### 📜 Certifications
